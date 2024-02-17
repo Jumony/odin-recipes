@@ -1,0 +1,52 @@
+.unorderlist
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+}
+
+.burger
+{
+    font-size: 30px;
+}
+
+#Heading
+{
+    text-align: center;
+    background-color: lightblue;
+
+}
+
+
+h1, h4, h5
+{
+    text-align: center;
+}
+
+.burger-page-default
+{
+    & h1, h4, h5
+    {
+        background-color: seashell;
+    }
+}
+
+.raspberry-page-default
+{
+    & h1, h4, h5
+    {
+        background-color: lightpink;
+    }
+}
+
+.tripwire-hook-page-default
+{
+    & h1, h4, h5
+    {
+        background-color: lightgray;
+    }
+}
+
+.default-ul, .default-ol, .default-p
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
