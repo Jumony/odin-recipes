@@ -50,3 +50,22 @@ h1, h4, h5
 {
     font-family: Verdana, Geneva, Tahoma, sans-serif
 }
+
+.tripwire-hook-page-default
+{
+    & div
+    {
+        padding:5px;
+        padding-left:20px;
+        padding-right:20px;
+        background-color: #ccbd8b;
+    }
+}
+
+.raspberry-page-default
+{
+    & div
+    {
+        
+    }
+}
